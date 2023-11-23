@@ -51,6 +51,8 @@
 	}
 </script>
 
+<h1 class="h3 sm:h2 pb-14">Conversor</h1>
+
 <div
 	class="flex flex-col gap-3 sm:gap-0 sm:flex-row justify-between items-center w-1/2 h-35 text-center"
 >
