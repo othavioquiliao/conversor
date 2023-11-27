@@ -1,4 +1,4 @@
 <script lang="ts">
 </script>
 
-<h1 class="h1">heatmap</h1>
+<h1 class="h1">Heatmap</h1>

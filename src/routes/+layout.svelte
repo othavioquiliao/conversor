@@ -19,7 +19,7 @@
 			>
 		</nav>
 	</svelte:fragment>
-	<div class="flex flex-col items-center h-full mt-52">
+	<div class="flex flex-col items-center h-full mt-32">
 		<slot><!-- optional fallback --></slot>
 	</div>
 </AppShell>
